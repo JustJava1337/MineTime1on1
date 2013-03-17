@@ -1,0 +1,9 @@
+name: 1on1
+version: 1.0
+author: JustJava
+main: me.justjava.on1.On1
+
+commands:
+   1on1:
+      usage: 
+      description: 1on1 Befehl
